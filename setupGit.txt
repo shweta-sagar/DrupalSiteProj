@@ -1,0 +1,15 @@
+Set Up Git
+
+At the heart of GitHub Enterprise is an open source version control system (VCS) called Git. Git is responsible for everything GitHub Enterprise-related that happens locally on your computer.
+
+To use Git on the command line, you'll need to download, install, and configure Git on your computer.
+
+If you want to work with Git locally, but don't want to use the command line, you can instead download and install the GitHub Desktop client. For more information, see "Getting Started with GitHub Desktop."
+
+If you don't need to work with files locally, GitHub Enterprise lets you complete many Git-related actions directly in the browser, including:
+
+    Creating a repository
+    Forking a repository
+    Managing files
+    Being social
+
